@@ -18,5 +18,4 @@ URL: https://smartnews-smri.github.io/hometown-tax-map/
 - 市区町村の境界線：国土交通省・[国土数値情報（行政区域データ）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-v3_0.html)を、[スマートニュース メディア研究所が加工した]もの(https://github.com/smartnews-smri/japan-topography)。
 - 制作：[荻原 和樹](https://smartnews-smri.com/member/kazuki-ogiwara/)（[スマートニュース メディア研究所](https://smartnews-smri.com/)）
 
-### このリポジトリはスマートニュース メディア研究所からコピーしたものです
-- https://github.com/smartnews-smri/hometown-tax-map
+このリポジトリは[スマートニュース メディア研究所のリポジトリ](https://github.com/smartnews-smri/hometown-tax-map)からコピーしたものです
